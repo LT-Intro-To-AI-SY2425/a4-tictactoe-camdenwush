@@ -9,7 +9,7 @@ Figuring out who won the game was the hardest because it's easy to miss one.
 
 2. Explain how you would add a computer player to the game.
 
-Have a method to suggest a move, and then have a wrapper that asks the user adn then asks the computer.
+Have a method to suggest a move, and then have a wrapper that asks the user and then asks the computer.
 
 
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
